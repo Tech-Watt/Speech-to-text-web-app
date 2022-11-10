@@ -1,7 +1,6 @@
 import streamlit as st
 import time 
 import speech_recognition as sr
-import pyaudio
 import playsound
 import pyttsx3
 
